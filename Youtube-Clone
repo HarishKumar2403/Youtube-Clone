@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+    <head>
+       <title>
+        YouTube Clone
+       </title>
+       <style>
+.vijay{
+    width:300px;
+    margin-bottom: 25px;
+    display: block;
+    cursor: pointer;
+}
+.vijay:hover{
+    opacity: 0.8;
+}
+.vijay:active{
+    opacity: 0.5;
+}
+
+.search{
+    margin-top: 25px;
+    margin-bottom: 25px;
+margin-left: 80px;
+display: block;
+}
+.text-tile{
+    width: 300px;
+    font-weight: bold;
+    display:inline;
+
+    
+}
+
+.text-middle{
+    
+    margin-bottom: 0px;
+    color: rgb(96,96,96); 
+    display:inline;
+
+    
+
+}
+
+
+.text-bottom{
+   
+    margin-top: 5px;
+    color: rgb(96,96,96);
+    display:inline;
+}
+.google{
+    margin-top: 100px;
+}
+.example{
+    width: 300px;
+    display: inline-block;
+    margin-left: 15px;
+    vertical-align: top;
+    margin-top: 18px;
+}
+.logo1{
+    display: inline;
+    
+    height: 34px;
+    border-radius: 18px;
+    vertical-align: middle;
+}
+
+</style>
+
+
+    </head>
+    <body>
+        
+        <input class="search" type="text" placeholder="Search">
+        <div class="example">
+            <a href="https://www.youtube.com/watch?v=1uxUanyydss"><img class="vijay" src="hq721.webp"></a>
+            <img class="logo1" src="lg1.jpg">
+            <p class="text-tile">IPL Paavangal | Parithabangal
+
+            </p>
+            <p class="text-middle">Parithabangal &#10003;</p>
+            <p class="text-bottom">2.2M views &#183; 2 Weeks ago</p>
+
+        </div>
+        <div class="example">
+            <a href="https://www.youtube.com/watch?v=Fyj5wbzRPC8"><img class="vijay" src="hq720.webp"></a>
+            <p class="text-tile">
+                Beast Mode - Video Song </p>
+            <p class="text-middle">Sun Music &#10003;</p>
+            <p class="text-bottom">3.5M views &#183; 1 months ago</p>
+             
+        </div>
+        <div class="example">
+            <img class="vijay" src="hq722.webp">
+            <p class="text-tile"> 
+                10 AI Tools YOU WON'T BELIEVE </p>
+            <p class="text-middle">Hayls World</p>
+            <p class="text-bottom">703K views &#183; 2 Weeks ago</p>
+             
+        </div>
+        <div class="example">
+            <img class="vijay" src="hq723.webp">
+            <p class="text-tile"> Introducing  Apple Vision Pro</p>
+            <p class="text-middle">Apple &#10003;</p>
+            <p class="text-bottom">42M views &#183; 5 days ago</p>
+             
+        </div>
+        <div class="example">
+            <img class="vijay" src="ht1.webp">
+            <p class="text-tile">PUBG: RTX 4090 24GB (4K Ultra Graphics)</p>
+            <p class="text-middle">GTX 1050 Ti &#10003;</p>
+            <p class="text-bottom">42M views &#183; 5 days ago</p>
+             
+        </div>
+        <div class="example">
+            <img class="vijay" src="ht2.webp">
+            <p class="text-tile">NO HARD FEELINGS - Official Red Band Trailer #2</p>
+            <p class="text-middle">Sony Pictures Entertainment &#10003;</p>
+            <p class="text-bottom">8.4M views &#183; 2 Weeks ago</p>
+             
+        </div>
+        <div class="example">
+            <img class="vijay" src="ht3.webp">
+            <p class="text-tile">Oppenheimer | New Trailer</p>
+            <p class="text-middle">Universal Pictures &#10003;</p>
+            <p class="text-bottom">29M views &#183; 1 month ago</p>
+             
+        </div>
+        <div class="example">
+            <img class="vijay" src="ht4.webp">
+            <p class="text-tile">Marvel's Spider-Man 2 - Gameplay Reveal | PS5 Games</p>
+            <p class="text-middle">PlayStation &#10003;</p>
+            <p class="text-bottom">10M views &#183; 2 weeks ago</p>
+             
+        </div>
+    </body>
+</html>
